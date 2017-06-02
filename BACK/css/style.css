@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    background-color: #B9C6FF;
+    align-items: center;
+    justify-content: center;
+}
+.fa-book {
+    font-size: 100px!important;
+}
+main table {
+    border-style: solid;
+    border-width: 5px;
+}
+
+main table tr th {
+    padding: 30px;
+    border-style: solid;
+    border-width: 1px;
+}
+.tableau {
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+main form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
